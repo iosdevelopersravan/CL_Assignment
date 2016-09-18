@@ -1,0 +1,19 @@
+//
+//
+//  CL_Assignment
+//
+//  Created by Sravan on 9/18/16.
+//  Copyright © 2016 Sravan. All rights reserved.
+//
+
+//Product
+"PRODUCTS"                               = "Products";
+//Cart
+"CART"                                  = "Cart";
+
+//Alert Messages
+"SAVED_SUCCESSFULLY"                    = "Saved Successfully";
+"OK"                                    = "OK";
+"YES"                                   = "YES";
+"NO"                                    = "NO";
+
